@@ -1,7 +1,7 @@
 import java.util.Scanner;
 public class nachole {
     public static void main(String[] args){
-        System.out.print("Hola mundo");
+        System.out.print("Sumemos 2 numeros");
         int n1 = 0, n2 = 0;
         Scanner sc = new Scanner(System.in);
         System.out.println("Ingrese un numero (1)");
